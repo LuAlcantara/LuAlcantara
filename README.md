@@ -1,6 +1,6 @@
 ## Oi! Eu sou o Lucas Alcântara 👋
 
-- 🌱 Estudando front-end, javascript
+- 🌱 Estudando front-end,css, javascript
 - 📫 Contate-me no email: alcantara.lucas@terra.com.br
 - 😄 Pronouns: ele/dele
 
