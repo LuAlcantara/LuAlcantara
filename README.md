@@ -1,14 +1,9 @@
 ## Oi! Eu sou o Lucas Alcântara 👋
 
 - 🌱 Estudante de Análise e Desenvolvimento de Sistemas na FIAP.
-- 📫 Contate-me no email: alcantara.lucas@terra.com.br
+- 📫 E-mail: alcantara.lucas@terra.com.br
 - 😄 Pronouns: ele/dele
 
- <div>
-  <a href="https://github.com/LuAlcantara">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LuAlcantara&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuAlcantara&layout=compact&langs_count=7&theme=dark"/>
-</div>
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
