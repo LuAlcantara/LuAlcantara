@@ -1,7 +1,7 @@
 ## Oi! Eu sou o Lucas Alcântara 👋
 
 - 🌱 Estudante de Análise e Desenvolvimento de Sistemas na FIAP.
-- 📫 E-mail: alcantara.lucas@terra.com.br
+- 📫 E-mail: oalcantara.lucas@gmail.com
 - 😄 Pronouns: ele/dele
 
   
