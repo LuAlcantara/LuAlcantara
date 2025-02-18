@@ -1,4 +1,4 @@
-## Oi! Eu sou o Lucas Alcântara 👋
+## Oi! Eu sou o Lucas Alcântara ✌🏾
 
 - 👨🏾‍💻 Estagiário no time de e-commerce - Vivo
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas na FIAP.
